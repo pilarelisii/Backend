@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Funda Iphone",
+    "price": 1200,
+    "id": 1
+  },
+  {
+    "title": "Funda Samsung",
+    "price": 1200,
+    "id": 2
+  },
+  {
+    "title": "Funda iPad",
+    "price": 1200,
+    "id": 3
+  }
+]
