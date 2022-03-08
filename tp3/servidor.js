@@ -23,8 +23,9 @@ class Contenedor {
 
             this.productos = JSON.parse(data);
 
-            return `<h3>${Object.values(this.productos)}</h3>`
             
+            return `<h3>${Object.values(this.productos)}</h3>`
+
         } catch(err) {
             console.log(`Hubo un error en el metodo getAll: ${err.message}`)
         } 
